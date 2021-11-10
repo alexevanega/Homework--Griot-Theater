@@ -54,6 +54,7 @@ body {
 #itemsbody {
     display: flex;
     flex-direction: column;
+    font-family: 'Roboto', sans-serif;                                                                            
 }
 
 .items a {

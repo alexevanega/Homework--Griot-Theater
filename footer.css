@@ -36,4 +36,5 @@ footer a:hover {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+    font-family: 'Roboto', sans-serif;
 }
