@@ -1,0 +1,32 @@
+.navbar {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    height: 20px;
+    padding: 20px 10px 10px 10px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: gold;
+}
+
+#navhead {
+    width: 20vw;
+    display: flex;
+    justify-content: center;
+}
+
+#navbody {
+    width: 80vw;
+    margin-right: 150px;
+    display: flex;
+    justify-content: center;
+    column-gap: 60px;
+}
