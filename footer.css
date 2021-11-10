@@ -20,6 +20,10 @@ footer a {
     text-decoration: none;
 }
 
+footer a:hover {
+    color: lightpink;
+}
+
 .special-links {
     display: flex;
     flex-direction: row;
