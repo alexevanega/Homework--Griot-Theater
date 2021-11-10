@@ -46,6 +46,13 @@ body {
     padding-bottom: 20px;
     border-bottom: 2px solid black;
 }
+.items p {
+    padding: 10px
+}
+
+.items h3 {
+    padding-left: 9px;
+}
 
 .items img {
   width: 150px;
